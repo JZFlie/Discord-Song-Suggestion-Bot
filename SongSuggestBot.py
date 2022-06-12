@@ -3,7 +3,6 @@ import random
 import discord
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-from keep_alive import keep_alive
 
 # Constants holding necessary id's and uri's
 SPOTIFY_ID = ''
